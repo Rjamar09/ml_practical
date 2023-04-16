@@ -1,5 +1,7 @@
 I Feature Engineering
 
+1.3 Feature Scaling (Normalization and Standarization)
+
 1.5 Outlier Detection
 
 1.6 Feature Extraction : Principal Component Analysis
